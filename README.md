@@ -1,2 +1,8 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# IMC Calculator | Dio Project
+
+[x] Create class Person (Name, Weight, Height);
+[x] Read data;
+[ ] Try catch;
+[ ] Calculate function;
+[ ] Show on screen;
+[ ] Tests;
