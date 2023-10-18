@@ -1,13 +1,13 @@
 import 'dart:convert';
 import 'dart:io';
 
-String lerConsole(String texto) {
+String readConsole(String texto) {
   print("Informe $texto");
-  var leitura = stdin.readLineSync(encoding: utf8);
-  return leitura ?? "";
+  var read = stdin.readLineSync(encoding: utf8);
+  return read ?? "";
 }
 
-double lerConsoleDouble(String texto) {
-  var leitura = lerConsole(texto);
-  return double.parse(leitura);
+double readConsoleDouble(String texto) {
+  var read = readConsole(texto);
+  return double.parse(read);
 }
