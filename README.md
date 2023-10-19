@@ -33,7 +33,6 @@ IMCs abaixo de 20 e acima de 25 têm sido associados a uma maior mortalidade por
 - [x]  Calculate BMI function;
 - [x]  Try catch exceptions;
 - [x]  Show results on screen;
-- [ ]  Tests
 
 <br>
 
