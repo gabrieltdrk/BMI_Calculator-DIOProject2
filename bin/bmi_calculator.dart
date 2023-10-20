@@ -1,6 +1,6 @@
-import 'package:imc_calculator/classes/pessoa.dart';
-import 'package:imc_calculator/functions/utility.dart' as util;
-import 'package:imc_calculator/functions/calculate.dart' as bmi;
+import 'package:bmi_calculator/classes/person.dart';
+import 'package:bmi_calculator/functions/utility.dart' as util;
+import 'package:bmi_calculator/functions/calculate.dart' as bmi;
 
 void main(List<String> arguments) {
   var name = util.readConsole("your name: ");
